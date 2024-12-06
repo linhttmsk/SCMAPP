@@ -1,1 +1,2 @@
-# SCMAPP
+# MEKSCMApp
+MEKSCMApp
